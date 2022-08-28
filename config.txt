@@ -10,6 +10,7 @@
 "user": ["oGvWZ6AcuaJv6WyJQVkUGrVdH0R4","oGvWZ6FxMi51FWHTz0SQ8ZvM750c"],
 
 # 信息配置
+"早安呀宝贝乖乖"
 # 和风天气apikey
 "weather_key": "6e3e9ba380f3403db7195ccca87358a9",
 # 天行数据apikey
