@@ -10,7 +10,6 @@
 "user": ["oGvWZ6AcuaJv6WyJQVkUGrVdH0R4","oGvWZ6FxMi51FWHTz0SQ8ZvM750c"],
 
 # 信息配置
-"早安呀宝贝乖乖"
 # 和风天气apikey
 "weather_key": "6e3e9ba380f3403db7195ccca87358a9",
 # 天行数据apikey
@@ -24,7 +23,7 @@
 # 在一起的日子，格式同上
 "love_date": "2021-05-01",
 # 金句中文，如果为空，默认会读取金山的每日金句
-"note_ch": "",
+"note_ch": "早安呀我的乖乖宝贝",
 # 金句英文
 "note_en": ""
 }
